@@ -1,0 +1,1 @@
+This notebook documents the data engineering efforts required to transform the raw GPS tracks collected by Daynamica into map-matched polylines that could be visualized in the [Transportation Happiness Map](https://maps.umn.edu/transportation-happiness/)
